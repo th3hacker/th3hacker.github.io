@@ -1,0 +1,53 @@
+
+I hereby claim:
+
+  * I am an admin of https://th3hacker.github.io
+  * I am th3hacker (https://keybase.io/th3hacker) on keybase.
+  * I have a public key ASACTvDKLQG1-tkbYisMjMdVD1XFp4C8yE5ZfEJ0nQdTewo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120024ef0ca2d01b5fad91b622b0c8cc7550f55c5a780bcc84e597c42749d07537b0a",
+      "host": "keybase.io",
+      "kid": "0120024ef0ca2d01b5fad91b622b0c8cc7550f55c5a780bcc84e597c42749d07537b0a",
+      "uid": "9f4af93cb37382f9c4a8d63cac261819",
+      "username": "th3hacker"
+    },
+    "merkle_root": {
+      "ctime": 1551033444,
+      "hash": "107600745ecf7c9e2531e1b8904072e329dd760603db0859b260aae78d471294bd12f8dc85ee520d4094743c2a97cfa5edf9bc91c9b2e3eeb36d4da9d04ecfdc",
+      "hash_meta": "e8acb3885d6b1ed80890a042cb23464d8ccba97fc19555fa30ffa9a4733df299",
+      "seqno": 4821506
+    },
+    "service": {
+      "entropy": "oRlRdTDEHQiqQV4xvCWuQpwm",
+      "hostname": "th3hacker.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551038100,
+  "expire_in": 504576000,
+  "prev": "8d7ea1c50cf5446d688b4a3bf2c87e6ca5bcac9e3eb5447ac266fc1f0f7d9027",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAk7wyi0BtfrZG2IrDIzHVQ9VxaeAvMhOWXxCdJ0HU3sKp3BheWxvYWTESpcCCMQgjX6hxQz1RG1oi0o78sh+bKW8rJ4+tUR6wmb8Hw99kCfEIOdLMNsG6aVeV0v9nc2cLBXFfWWY1w0wOmx2p7ZkdIJBAgHCo3NpZ8RAJ24cEvYDwrCVcnUTSooHn8UZrQrwJlqoQEU9s7g7vgRMczlxVezb8Bx5DdoKo44P5ByaWY/lDf2C4Y/PmS5MAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHJ9PJ2vD6G7pufseeLXKJJCmv8JjL0j0+dvUP9/2l5Oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/th3hacker
+
+
